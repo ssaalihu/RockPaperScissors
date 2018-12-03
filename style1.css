@@ -1,0 +1,28 @@
+body{
+	background-color: cornflowerblue;
+}
+
+h1 {
+	margin: 50px auto;
+	text-align: center;
+}
+
+.btn {
+	text-align: center;
+}
+
+.btn input {
+	border: none;
+	width: 100px;
+	background-color: grey;
+	color: white;
+	transition-duration: 0.4s;
+	border-radius: 15px;
+	padding: 10px;
+	margin: 20px;
+}
+
+.btn input:hover {
+	background-color: cornflowerblue;
+	color: black;
+}
